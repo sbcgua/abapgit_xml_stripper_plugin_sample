@@ -1,0 +1,2 @@
+# abapgit_xml_stripper_plugin_sample
+Sample for abapgit_xml_stripper_plugin
